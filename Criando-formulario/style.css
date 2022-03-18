@@ -13,11 +13,7 @@ body{
     background: #fff;
     margin: 150px auto ;
     width: 400px;
-    
 }
-
-
-
 
 form {
     padding: 20px;
@@ -31,7 +27,6 @@ form .input-container {
     position: relative;
     margin-bottom: 15px;
 }
-
 
 form .input-container input, input[type="submit"]{
     width: 100%;
@@ -53,14 +48,9 @@ form .input-container input{
     font-size: 1rem;
 }
 
-
-
 form .input-container input::placeholder {
     color: #818181;
 }
-
-
-
 
 form .input-container svg {
     position: absolute;
@@ -128,23 +118,3 @@ hr {
     width: fit-content;
     margin: 20px auto;
 }
-
-
-
-
-
-
-
-
-
-
-
-/*cores
-
-background: #EBEBEB;
-CINZA CLARO : #E4E4E4;
-CINZA INPUTS: #818181;
-facebook: #375c98;
-mail: #c54f33;
-twitter:#4dadf2
-*/
